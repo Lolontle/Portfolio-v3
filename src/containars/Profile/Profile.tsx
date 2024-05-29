@@ -23,7 +23,7 @@ function Profile() {
       </Box>
       <Box alignSelf={"center"} px={"32"} py={"16"}>
         <Text fontWeight={"bold"} fontSize={"2xl"}>
-          Developer, specialising in Web Development and Mobile App Development
+          Developer, specialising in FullStack Web Development, Mobile App Development & Backend Developement 
         </Text>
         <br></br>
         <Heading>Projects</Heading>
